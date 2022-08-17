@@ -1,1 +1,17 @@
-NEW ONES OF THE DOME
+git status
+
+git add file name
+
+git commit -m "XYZ"
+
+git log
+
+for see changing
+
+git diff file name
+
+get it back this file 
+
+git checkout file name
+
+
